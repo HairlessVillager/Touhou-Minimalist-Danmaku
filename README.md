@@ -14,13 +14,14 @@ EGE graphics library main site: https://xege.org/
 
 THBWiki (Touhou Project Wikipedia aimed at professionalism): https://thwiki.cc/
 
-You can read the _Danmaku Writing Guide_ to learn how to create a danmaku in this program framework.
+You can read the _Danmaku Writing Guide_ (will be done) to learn how to create a danmaku in this program framework.
 
 If you have some idea, you can e-mail me at hairlessvillager@qq.com. :-)
 
 ---
 
-＃东方极简弹幕
+＃ 东方极简弹幕
+
 一个用 EGE 图形库制作的极简弹幕模型。
 
 这是我用 C++ 编写的第一个也是最大的项目。 所以也许看起来像狗屎一样。 没关系。
@@ -31,8 +32,8 @@ If you have some idea, you can e-mail me at hairlessvillager@qq.com. :-)
 
 EGE 图形库主站点：https://xege.org/
 
-THBWiki（以专业性为目标的东方 Project 维基百科）：https：//thwiki.cc/
+THBWiki（以专业性为目标的东方 Project 维基百科）：https://thwiki.cc/
 
-您可以阅读 _Danmaku Writing Guide_ ，以了解如何在此程序框架中创作弹幕。
+您可以阅读 _Danmaku Writing Guide_ （在写了在写了），以了解如何在此程序框架中创作弹幕。
 
 如果您有任何想法，可以给我发送电子邮件：hairlessvillager@qq.com。 :-)
