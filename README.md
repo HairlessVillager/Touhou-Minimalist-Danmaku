@@ -1,4 +1,4 @@
-# Touhou-Minimalist-Danmaku
+# Touhou-Minimalist-Danmaku / 东方极简弹幕
 
 ![aRKZlT.png](https://s1.ax1x.com/2020/08/06/aRKZlT.png)
 
@@ -19,8 +19,6 @@ You can read the _Danmaku Writing Guide_ (will be done) to learn how to create a
 If you have some idea, you can e-mail me at hairlessvillager@qq.com. :-)
 
 ---
-
-＃ 东方极简弹幕
 
 一个用 EGE 图形库制作的极简弹幕模型。
 
